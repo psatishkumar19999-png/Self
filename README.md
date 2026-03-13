@@ -14,4 +14,4 @@ I also handle traffic routing and ingress configurations using NGINX and Citrix 
 
 As part of daily operations, I manage SSL/TLS certificate rotations, URL whitelisting, and connectivity validations to prevent production issues. I also collaborate with development teams to support JIRA-based deployments and production releases.
 
-We often receive tasks such as pulling logs and traces, creating and updating KVM entries, performing connectivity checks, managing URL whitelisting and telnet connectivity those are related to application.
+We often receive tasks such as pulling logs and traces, creating and updating KVM entries, performing connectivity checks, managing URL whitelisting and telnet connectivity those are related to applications.
